@@ -37,3 +37,6 @@ Virtual Environment:
 25. add venv/ into .gitinore after $py.class at line no 4. that means we are not going to upload venv/ folder but giving venv location direction!! : venv/
 
 Git Branching
+
+# git push protection from the command line
+https://docs.github.com/en/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push
