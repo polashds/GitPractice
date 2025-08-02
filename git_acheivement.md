@@ -459,3 +459,81 @@ Once you complete the quickdraw steps, GitHub automatically grants the **Quickdr
   * **MLH events**
 
 Would you like a **step-by-step GitHub project idea** that helps you work toward the Sponsor badge? I can help you build one!
+
+
+how to earn quickdraw, starstruck badges in github ?
+guide me step by step
+
+GitHub **Quickdraw** 🥷 and **Starstruck** ⭐ badges are part of [GitHub Achievements](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-achievements), designed to reward fun, engaging behavior on the platform. Here's exactly how you can **earn each of these two badges**, step-by-step.
+
+---
+
+## 🥷 **Quickdraw Badge**
+
+> 🏆 **How to Earn:** **Respond to an issue within 5 minutes of it being opened.**
+
+### ✅ Step-by-Step Guide:
+
+1. **Find active repositories to watch:**
+
+   * Go to trending repos: [https://github.com/trending](https://github.com/trending)
+   * Select repos with open collaboration or active issue trackers.
+
+2. **Watch a repository:**
+
+   * Click the `Watch` button at the top-right of the repo.
+   * Select `All Activity` to get notified of every issue opened.
+
+3. **Enable GitHub notifications:**
+
+   * Make sure notifications are enabled via email or in-browser (GitHub Settings > Notifications).
+   * Install the GitHub mobile app if needed for faster alerts.
+
+4. **Wait for a new issue:**
+
+   * As soon as someone creates a new issue, you’ll be notified.
+
+5. **Reply within 5 minutes:**
+
+   * Leave a comment on the issue as soon as you see it.
+   * Even a helpful suggestion, greeting, or question is enough. (Don’t spam.)
+
+### ⏱ Tips:
+
+* Best time: Weekdays during working hours in US time zones.
+* Join open-source communities on Discord or Reddit to get alerts quicker.
+
+---
+
+## ⭐ **Starstruck Badge**
+
+> 🏆 **How to Earn:** **Star at least 16 repositories.**
+
+### ✅ Step-by-Step Guide:
+
+1. **Go to any GitHub repository:**
+
+   * Use: [https://github.com/trending](https://github.com/trending) or search your favorite tools.
+
+2. **Click the `Star` button at the top-right corner of the repo.**
+
+3. **Repeat until you've starred at least 16 different repositories.**
+
+4. Badge is awarded automatically once you hit 16 stars.
+
+### 🎯 Tips:
+
+* No need to un-star or rush—take your time.
+* Choose repos that you genuinely find interesting or useful.
+
+---
+
+## 📌 How to Check Progress
+
+* Go to your GitHub profile: `https://github.com/your-username`
+* Click on `Achievements` (found in the profile sidebar).
+* Badges that are **earned** will appear colored; **unearned** badges are grayed out.
+
+---
+
+Would you like help with **choosing trending repos to watch** for Quickdraw or finding **cool ones to star** for Starstruck?
